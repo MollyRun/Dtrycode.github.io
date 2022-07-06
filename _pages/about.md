@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="https://TinaChen2.github.io/files/myphoto.jpg?raw=true" alt="Photo" style="width: 420px;height:200px;"/> 
+  <img src="https://TinaChen2.github.io/files/myphoto.jpg?raw=true" alt="Photo" style="width: 420px;height:400px;"/> 
 </p>
 
 # About Me
