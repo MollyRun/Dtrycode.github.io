@@ -23,7 +23,7 @@ author_profile: true
 <b>[Minimizing Misinformation Profit in Social Networks](https://ieeexplore.ieee.org/document/8884195)</b> <br> <b>Tiantian Chen</b>, Wenjing Liu, Qizhi Fang, Jianxiong Guo, Ding-Zhu Du.<i> IEEE Transactions on Computational Social Systems (TCSS), vol. 6, no. 6, pp. 1206-1218, 2019</i>.
 
 
-<b>[Competitive profit maximization in social networks](http://TinaChen2.com/publications/CPMSN.md)</b> <br> 
+<b>[Competitive profit maximization in social networks](https://github.com/TinaChen2/TinaChen2.github.io/blob/4d83d9815d1d84b9c76dc73b1c9b26abe3830e54/_publications/CPMSN.md)</b> <br> 
 Weian Li, Wenjing Liu, <b>Tiantian Chen</b>, Xiaoying Qu, Qizhi Fang and Ker-I Ko. <i> Theoretical Computer Science (TCS) , vol. 694, pp. 1-9, 2017</i>. 
 
   
