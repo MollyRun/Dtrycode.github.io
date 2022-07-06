@@ -1,13 +1,14 @@
 ---
-title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citations?user=Ixg9n-EAAAAJ&hl=en)"
+title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citations?user=cJvlTj4AAAAJ&hl=en)"
 permalink: /publications/
 author_profile: true
 ---
 <br>
-<b>[A General Recipe for Likelihood-free Bayesian Optimization](http://lantaoyu.com/publications/LFBO)</b> <br> 
-Jiaming Song<b>\*</b>, <b>Lantao Yu</b><b>\*</b> (equal contribution), Willie Neiswanger, Stefano Ermon.
-<i>The 39th International Conference on Machine Learning</i>. <b>ICML 2022</b>. <b><span style="color:red">(Long Oral, Top 2.2%)</span></b>
+<b>[Competitive profit maximization in social networks](https://www.sciencedirect.com/science/article/pii/S0304397517305388)</b> <br> 
+Weian Li, Wenjing Liu, <b>Tiantian Chen</b>, Xiaoying Qu, Qizhi Fang and Ker-I Ko. <i>Theoretical Computer Science (TCS) , vol. 694, pp. 1-9, 2017</i>. 
 
+
+  
 <b>[GeoDiff: A Geometric Diffusion Model for Molecular Conformation Generation](http://lantaoyu.com/publications/GeoDiff)</b> <br> 
 Minkai Xu, <b>Lantao Yu</b>, Yang Song, Chence Shi, Stefano Ermon, Jian Tang.
 <i>The Tenth International Conference on Learning Representations</i>. <b>ICLR 2022</b>. <b><span style="color:red">(Oral Presentation)</span></b>
