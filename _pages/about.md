@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="https://lantaoyu.github.io/files/myphoto.png"> 
+  <img src="https://TinaChen2.github.io/files/myphoto.png"> 
 </p>
 
 
