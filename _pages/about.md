@@ -9,10 +9,6 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="https://TinaChen2.github.io/files/lantaoyu_img.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
-</p>
-
-<p align="center">
   <img src="https://TinaChen2.github.io/files/myphoto.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
 </p>
 
