@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="https://TinaChen2.github.io/files/myphoto.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
+  <img src="https://TinaChen2.github.io/files/myphoto.jpg?raw=true" alt="Photo" style="width: 420px;"/> 
 </p>
 
 # About Me
@@ -17,3 +17,4 @@ redirect_from:
 * My research interests lie in social networks, design and analysis of approximation algorithms, deep learning, and reinforcement learning.
 * I received my B.S. degree in Mathematics and Applied Mathematics, and M.S. degree in Operational Research and Cybernetics from Ocean University of China
  in 2016 and 2019, respectively.
+
