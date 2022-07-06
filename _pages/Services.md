@@ -6,9 +6,9 @@ author_profile: true
 ---
 
 * Journal Reviewer:
-    * Nested bullet
     * Theoretical Computer Science
     * Information Sciences
+    * Discrete Mathematics, Algorithms and Applications
     * Operations Research Forum
     * Computational Social Networks
    
