@@ -27,11 +27,6 @@ author_profile: true
 Weian Li, Wenjing Liu, <b>Tiantian Chen</b>, Xiaoying Qu, Qizhi Fang and Ker-I Ko. <i> Theoretical Computer Science (TCS) , vol. 694, pp. 1-9, 2017</i>. 
 
   
-# Manuscripts
-<br>
-<b>[A Unified Framework for Multi-distribution Density Ratio Estimation](http://lantaoyu.com/publications/MultiDRE)</b> <br>
-<b>Lantao Yu</b>, Yujia Jin, Stefano Ermon.
-<i>Preprint. arXiv:2112.03440</i>
 
 
 
