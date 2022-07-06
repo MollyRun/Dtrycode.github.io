@@ -24,6 +24,9 @@ main:
   - title: "Awards"
     url: /Awards/  
     
+  - title: "Experience"
+    url: /Experience/
+    
   - title: "Services"
     url: /Services/ 
     
