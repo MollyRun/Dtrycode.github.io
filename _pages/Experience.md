@@ -4,7 +4,6 @@ title: "Experience"
 permalink: /Experience/
 author_profile: true
 ---
-
  
 * Teaching Assistant, UT Dallas, Aug. 2019 -- present
     * CS6363 Design and Analysis of Computer Algorithms (Spring 2022)
