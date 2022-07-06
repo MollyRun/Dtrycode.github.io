@@ -12,6 +12,9 @@ redirect_from:
   <img src="https://TinaChen2.github.io/files/lantaoyu_img.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
 </p>
 
+<p align="center">
+  <img src="https://TinaChen2.github.io/files/myphoto.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
+</p>
 
 # About Me
 * This is Tiantian Chen. I also go by the name Tina. I am currently a Ph.D. student in [Department of Computer Science](https://cs.utdallas.edu) at [The University of Texas at Dallas](https://www.utdallas.edu), advised by Prof. [Ding-Zhu Du](https://personal.utdallas.edu/~dxd056000/) and Prof. [Weili Wu](https://personal.utdallas.edu/~weiliwu/).
