@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 <br>
-<b>[Graph Representation Learning for Popularity Prediction Problem: A Survey](https://tinachen2.github.io/publications/GRLPPP)</b> <br> <b>Tiantian Chen</b>, Jianxiong Guo, Weili Wu<i>. Discrete Mathematics, Algorithms and Applications, has been accepted, 2022</i>. 
+<b>[Graph Representation Learning for Popularity Prediction Problem: A Survey](https://tinachen2.github.io/publications/GRLPPP)</b> <br> <b>Tiantian Chen</b>, Jianxiong Guo, Weili Wu<i>. Discrete Mathematics, Algorithms and Applications, 2022, doi:10.1142/S179383092230003X</i>. 
 
 
 <b>[Blockchain Driven Privacy Preserving Contact Tracing Framework in COVID-19](https://tinachen2.github.io/publications/BDPPCTF)</b> <br> Xiao Li, Weili Wu, <b>Tiantian Chen</b><i>. IEEE Transactions on Network Science and Engineering (TNSE), under review, 2022</i>. 
