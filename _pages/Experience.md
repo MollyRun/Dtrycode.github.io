@@ -4,17 +4,21 @@ title: "Experience"
 permalink: /Experience/
 author_profile: true
 ---
-* Teaching 
-    * Teaching Assistant, UT Dallas
-        * CS6363 Design and Analysis of Computer Algorithms (Spring 2022)
-        * CS6382 Theory of Computation (Fall 2021)    
-        * CS/SE4347 Database Systems (Spring 2021)
-        * CS/TE4341 Digital Logic and Computer Design (Fall 2019, Summer 2021, Summer 2022)
-        * CS6301 Special Topics in Computer Science - Developing/securing the Cloud (Spring 2020)
-     * Instructor, UT Dallas
-        * CS4141 Digital Systems Laboratory (Spring 2020, Fall 2020, Summer 2021, Fall 2021, Spring 2022, Summer 2022)<br/>
-
+* Applied Scientist Intern, Amazon, WA, May 2022-Aug. 2022
+  Investigate the problem of attribute value extraction using edging techniques of deep language models and big
+data tools.
+* Student mentor, UT Dallas, Fall 2021
+    * Help mentor the undergraduate team ”Deep Learning for Brain Disorders” of ACM Research Program 
+* Student mentor, UT Dallas, Summer 2021
+    * Help mentor the Summer Research Internship for High School Students - K-12 Outreach   
+* Research Assistant, Starling Lab, UT Dallas, TX, May 2020-present 
+* Teaching Assistant, UT Dallas, TX 
+    * CS6375 Machine Learning (Spring 2020, Fall 2018)
+    * CS6360 Database Design (Spring 2020)
+    * CS7301 Advanced Machine Learning (Fall 2019)
+    * CS6301 Machine Learning Engineer/Scientists (Spring 2019)
+    * SE4367 Software Testing Verification Validation and Quality Assurance (Fall 2019)
+    * CS4347 Database Systems (Spring 2019)
   (CS6* - graduate; CS/SE/TE4* - undergraduate)
 
-* Student mentor, UT Dallas,Summer 2021
-    * Help mentor UTD summer camp 2021 for High School Students 
+
