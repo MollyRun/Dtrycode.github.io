@@ -4,6 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 <br>
+
 <b>[Explainable Models via Compression of Tree Ensembles](https://Dtrycode.github.io/publications/EMCTE)</b> <br> <b>S. Yan</b>, S. Natarajan, S. Joshi, R. Khardon, P. Tadepalli<i>. IJCLR 2022 (Journal track), under review</i>. 
 
 <b>[A Statistical Relational Approach to Learning Distance-based GCNs](https://Dtrycode.github.io/publications/SRALDG)</b> <br> D. S. Dhami, <b>S. Yan</b>, S. Natarajan<i>. Statistical Relational AI (StarAI) Workshop at IJCLR 2021</i>. 
