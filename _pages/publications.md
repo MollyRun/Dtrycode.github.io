@@ -4,27 +4,19 @@ permalink: /publications/
 author_profile: true
 ---
 <br>
-<b>[Graph Representation Learning for Popularity Prediction Problem: A Survey](https://tinachen2.github.io/publications/GRLPPP)</b> <br> <b>Tiantian Chen</b>, Jianxiong Guo, Weili Wu<i>. Discrete Mathematics, Algorithms and Applications, 2022, doi:10.1142/S179383092230003X</i>. 
+<b>[Explainable Models via Compression of Tree Ensembles](https://Dtrycode.github.io/publications/EMCTE)</b> <br> <b>S. Yan</b>, S. Natarajan, S. Joshi, R. Khardon, P. Tadepalli<i>. IJCLR 2022 (Journal track), under review</i>. 
+
+<b>[A Statistical Relational Approach to Learning Distance-based GCNs](https://Dtrycode.github.io/publications/SRALDG)</b> <br> D. S. Dhami, <b>S. Yan</b>, S. Natarajan<i>. Statistical Relational AI (StarAI) Workshop at IJCLR 2021</i>. 
+
+<b>[Non-Parametric Learning of Embeddings for Relational Data using Gaifman Locality Theorem](https://Dtrycode.github.io/publications/NPLE)</b> <br> D. S. Dhami, <b>S. Yan</b>, G. Kunapuli, D. Page, S. Natarajan<i>. ILP, 2021</i>. 
+
+<b>[Predicting Drug-Drug Interactions from Heterogeneous Data: An Embedding Approach](https://Dtrycode.github.io/publications/PDDI)</b> <br> D. S. Dhami* <b>S. Yan*</b>, G. Kunapuli, D. Page, S. Natarajan<i>. AIME 2021. (*=equal contribution) </i> 
+
+<b>[The Curious Case of Stacking Boosted Relational Dependency Networks](https://Dtrycode.github.io/publications/CCSB)</b> <br> <b>S. Yan</b>, D. S. Dhami, S. Natarajan<i>. I Can’t Believe It’s Not Better (ICBINB) Workshop at NeurIPS 2020</i>. 
+
+<b>[Non-Parametric Learning of Gaifman Models](https://Dtrycode.github.io/publications/NPLGM)</b> <br> D. S. Dhami, <b>S. Yan</b>, G. Kunapuli, S. Natarajan<i>. Statistical Relational AI (StarAI) Workshop at AAAI 2020</i>. 
 
 
-<b>[Blockchain Driven Privacy Preserving Contact Tracing Framework in COVID-19](https://tinachen2.github.io/publications/BDPPCTF)</b> <br> Xiao Li, Weili Wu, <b>Tiantian Chen</b><i>. IEEE Transactions on Network Science and Engineering (TNSE), under review, 2022</i>. 
-
-
-<b>[Adaptive Multi-Feature Budgeted Profit Maximization in Social Networks](https://tinachen2.github.io/publications/AMBPMSN)</b> <br> <b>Tiantian Chen</b>, Jianxiong Guo, Weili Wu<i>. Social Network Analysis and Mining, under review, 2021</i>. 
-
-<b>[Continuous Activity Maximization in Online Social Networks](https://tinachen2.github.io/publications/CAMOSN)</b> <br> Jianxiong Guo, <b>Tiantian Chen</b>, Weili Wu<i>. IEEE Transactions on Network Science and Engineering (TNSE), vol. 7, no. 4, pp. 2775-2786, 2020</i>. 
-
-<b>[A Multi-Feature Diffusion Model: Rumor Blocking in Social Networks](https://tinachen2.github.io/publications/AMDMRBSN)</b> <br> Jianxiong Guo, <b>Tiantian Chen</b>, Weili Wu<i>. IEEE/ACM Transactions on Networking (TON), vol. 29, no. 1, pp. 386-397, 2020</i>. 
-
-<b>[Budgeted Coupon Advertisement Problem: Algorithm and Robust Analysis](https://tinachen2.github.io/publications/BCAPARA)</b> <br> Jianxiong Guo, <b>Tiantian Chen</b>, Weili Wu. <i>IEEE Transactions on Network Science and Engineering (TNSE), vol. 7, no. 3, pp. 1966-1976, 2020</i>.
-
-<b>[A random algorithm for profit maximization in online social networks](https://tinachen2.github.io/publications/ARAPMOSN)</b> <br> <b>Tiantian Chen</b>, Bin Liu, Wenjing Liu, Qizhi Fang, Jing Yuan, Weili Wu.<i> Theoretical Computer Science (TCS), vol. 803, pp. 36-47, 2020</i>.
-
-<b>[Minimizing Misinformation Profit in Social Networks](https://tinachen2.github.io/publications/MMPSN)</b> <br> <b>Tiantian Chen</b>, Wenjing Liu, Qizhi Fang, Jianxiong Guo, Ding-Zhu Du.<i> IEEE Transactions on Computational Social Systems (TCSS), vol. 6, no. 6, pp. 1206-1218, 2019</i>.
-
-
-<b>[Competitive profit maximization in social networks](https://tinachen2.github.io/publications/CPMSN)</b> <br> 
-Weian Li, Wenjing Liu, <b>Tiantian Chen</b>, Xiaoying Qu, Qizhi Fang and Ker-I Ko. <i> Theoretical Computer Science (TCS) , vol. 694, pp. 1-9, 2017</i>. 
 
   
 
