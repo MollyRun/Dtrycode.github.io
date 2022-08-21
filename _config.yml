@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tiantian Chen"
+title                    : "Siwen Yan"
 title_separator          : "-"
-name                     : &name "Tiantian Chen"
+name                     : &name "Siwen Yan"
 description              : &description "Ph.D. student, Department of Computer Science , The University of Texas at Dallas"
-url                      : https://TinaChen2.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://Dtrycode.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "TinaChen2/TinaChen2.github.io"
+repository               : "Dtrycode/Dtrycode.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Tiantian Chen"
-  avatar           : "me.png"
+  name             : "Siwen Yan"
+  avatar           : "myphoto.png"
   bio              : "Ph.D. student, Department of Computer Science , The University of Texas at Dallas"
   location         : "Richardson, Texas"
   employer         : 
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=cJvlTj4AAAAJ&hl=en"
-  email            : "tiantian.chen@utdallas.edu"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F5DF5s-nGnEtEnmyAfoSZxXLJpxqX_AOIz-GGjn35G0ab5_jf66siyIMQeFRAqbm17lFjy3RTzYdT8LFrmMkzI7gj-0ZQ&user=CtFKnnsAAAAJ"
+  email            : "siwen.yan@utdallas.edu"
   uri              : 
   bitbucket        :
   codepen          :
@@ -95,13 +95,13 @@ author:
   flickr           :
   facebook         : 
   foursquare       :
-  github           : "TinaChen2"
+  github           : "Dtrycode"
   google_plus      :
   keybase          :
   instagram        : 
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/tiantian-chen-7195391b1/"
-  orcid            : "https://orcid.org/0000-0003-3513-6170"
+  linkedin         : "https://www.linkedin.com/in/siwen-yan/"
+  orcid            : "...."
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
