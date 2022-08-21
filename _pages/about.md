@@ -9,12 +9,12 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="https://TinaChen2.github.io/files/myphoto.jpg?raw=true" alt="Photo" style="height:310px;"/> 
+  <img src="https://Dtrycode.github.io/files/myphoto.png?raw=true" alt="Photo" style="height:310px;"/> 
 </p>
 
 # About Me
-* This is Tiantian Chen. I also go by the name Tina. I am currently a Ph.D. candidate in [Department of Computer Science](https://cs.utdallas.edu) at [The University of Texas at Dallas](https://www.utdallas.edu), advised by Prof. [Ding-Zhu Du](https://personal.utdallas.edu/~dxd056000/) and Prof. [Weili Wu](https://personal.utdallas.edu/~weiliwu/).
-* My research interests lie in social networks, design and analysis of approximation algorithms, deep learning, and reinforcement learning.
-* I received my B.S. degree in Mathematics and Applied Mathematics, and M.S. degree in Operational Research and Cybernetics from Ocean University of China
- in 2016 and 2019, respectively.
+* This is Siwen Yan. I am currently a Ph.D. candidate in [Department of Computer Science](https://cs.utdallas.edu) at [The University of Texas at Dallas](https://www.utdallas.edu), advised by Prof. [DSriraam Natarajan](https://personal.utdallas.edu/~sriraam.natarajan/index.html).
+* My research interests lie in Probabilistic Graphical Models, Statistical Relational AI, Graph Neural Networks, AI Applications in Healthcare, Neuro-
+Symbolic AI, Human in the Loop, Reinforcement Learning, Knowledge-based systems.
+* I received my B.E. degree in Measurement, Control Technique and Instruments from Harbin Institute of Technology in 2015, and M.S. degree in Electrical and Computer Engineering from University of California San Diego in 2017, respectively.
 
