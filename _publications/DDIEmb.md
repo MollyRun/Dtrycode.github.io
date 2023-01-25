@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/DDIEmb
 venue: "AIME"
 date: 2021-5-11
-citation: 'D. S. Dhami*, <b>S. Yan*</b>, G. Kunapuli, S. Natarajan. <i>AIME 2021</i>.'
+citation: 'D. S. Dhami*, <b>S. Yan*</b>, G. Kunapuli, D. Page, S. Natarajan. <i>19th International Conference in Artificial Intelligence in Medicine (AIME) 2021</i>. (*=equal contribution)'
 ---
 
 [[PDF]](https://Dtrycode.github.io/files/AIME21_DDI.pdf)

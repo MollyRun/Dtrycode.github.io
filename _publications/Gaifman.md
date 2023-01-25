@@ -1,10 +1,10 @@
 ---
 title: "Non-Parametric Learning of Gaifman Models"
 collection: publications
-permalink: /publications/NPLGM
-venue: "Statistical Relational AI (StarAI) Workshop at AAAI"
+permalink: /publications/Gaifman
+venue: "StarAI Workshop at AAAI"
 date: 2020-5-11
-citation: 'D. S. Dhami*, <b>S. Yan*</b>, G. Kunapuli, S. Natarajan<i>. Statistical Relational AI (StarAI) Workshop at AAAI 2020</i>.'
+citation: 'D. S. Dhami, <b>S. Yan</b>, G. Kunapuli, S. Natarajan. <i>Statistical Relational AI (StarAI) Workshop at AAAI 2020</i>.'
 ---
 
 [[PDF]](https://arxiv.org/abs/2001.00528)

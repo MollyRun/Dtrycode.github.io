@@ -2,9 +2,9 @@
 title: "The Curious Case of Stacking Boosted Relational Dependency Networks"
 collection: publications
 permalink: /publications/StackBRDN
-venue: "I Can’t Believe It’s Not Better (ICBINB) Workshop at NeurIPS"
+venue: "ICBINB Workshop at NeurIPS"
 date: 2020-5-11
-citation: '<b>S. Yan</b>, D. S. Dhami, S. Natarajan<i>. I Can’t Believe It’s Not Better (ICBINB) Workshop at NeurIPS 2020</i>.'
+citation: '<b>S. Yan</b>, D. S. Dhami, S. Natarajan<i>. Proceedings on "I Can't Believe It's Not Better!" at NeurIPS Workshops, PMLR 2020</i>.'
 ---
 
 [[PDF]](https://proceedings.mlr.press/v137/yan20a.html)
