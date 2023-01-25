@@ -2,7 +2,6 @@
 title: "Explainable Models via Compression of Tree Ensembles"
 collection: publications
 permalink: /publications/EMCTE
-<!-- venue: "IJCLR 2022 (Journal track)" -->
 date: 2022-5-11
 citation: '<b>S. Yan</b>, S. Natarajan, S. Joshi, R. Khardon, P. Tadepalli<i>. IJCLR 2022 (Journal track), under review, 2022</i>.'
 ---
