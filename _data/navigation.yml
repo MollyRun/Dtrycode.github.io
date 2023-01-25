@@ -22,13 +22,13 @@ main:
   #   url: /year-archive/
     
   - title: "Awards"
-    url: /Awards/  
+    url: /awards/  
     
   - title: "Experience"
-    url: /Experience/
+    url: /experience/
     
   - title: "Services"
-    url: /Services/ 
+    url: /services/ 
     
   - title: "CV"
     url: /cv/
