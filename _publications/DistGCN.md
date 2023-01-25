@@ -1,7 +1,7 @@
 ---
 title: "A Statistical Relational Approach to Learning Distance-based GCNs"
 collection: publications
-permalink: /publications/SRALDG
+permalink: /publications/DistGCN
 venue: "Statistical Relational AI (StarAI) Workshop at IJCLR 2021"
 date: 2021-10-12
 citation: 'D. S. Dhami, <b>S. Yan</b>, S. Natarajan. <i>Statistical Relational AI (StarAI) Workshop at IJCLR 2021</i>.'

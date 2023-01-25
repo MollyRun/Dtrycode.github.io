@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Experience"
-permalink: /Experience/
+permalink: /experience/
 author_profile: true
 ---
 * Applied Scientist Intern, Amazon, WA, May 2022-Aug. 2022

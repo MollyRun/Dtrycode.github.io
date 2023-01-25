@@ -1,7 +1,7 @@
 ---
 title: "Non-Parametric Learning of Embeddings for Relational Data using Gaifman Locality Theorem"
 collection: publications
-permalink: /publications/NPLE
+permalink: /publications/NonParametric
 venue: "IILP"
 date: 2021-5-11
 citation: 'D. S. Dhami, <b>S. Yan</b>, G. Kunapuli, S. Natarajan<i>. ILP, 2021</i>.'
