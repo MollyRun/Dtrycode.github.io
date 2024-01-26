@@ -1,1 +1,1 @@
-[Welcome to my homepage!](https://github.com/projects)
+[Welcome to my homepage!](https://dtrycode.github.io/)
